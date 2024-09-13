@@ -1,3 +1,5 @@
 *.csv
 build
 pymnsos.egg-info
+git
+status
